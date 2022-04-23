@@ -1,7 +1,4 @@
 
-
-from secrets import choice
-import time
 import random
 import pytest
 def test_always_pass():
